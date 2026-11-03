@@ -5,10 +5,13 @@ vendor:
   name: Tayviscon IO
   email: tyomych.tovkach@tayviscon.com
 programming_language: Java
-programming_language_version: 17
+programming_language_version: 25
 content:
   - Введение
   - Разработка TayvisconGPT
+environment_settings:
+  jvm_language_level: JDK_25
+  gradle_version: 9.6.0
 additional_files:
   - name: build.gradle
   - name: settings.gradle
