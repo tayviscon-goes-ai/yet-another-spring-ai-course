@@ -1,0 +1,19 @@
+type: marketplace
+title: Yet Another Spring AI Course
+language: Russian
+vendor:
+  name: Tayviscon IO
+  email: tyomych.tovkach@tayviscon.com
+programming_language: Java
+programming_language_version: 17
+content:
+  - Введение
+  - Разработка TayvisconGPT
+additional_files:
+  - name: build.gradle
+  - name: settings.gradle
+  - name: gradle/wrapper/gradle-wrapper.properties
+  - name: README.md
+  - name: common/images/yet-another-spring-ai-course-logo.jpg
+    is_binary: true
+yaml_version: 6
