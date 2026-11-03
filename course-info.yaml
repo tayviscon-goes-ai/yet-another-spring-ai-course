@@ -19,4 +19,6 @@ additional_files:
   - name: README.md
   - name: common/images/yet-another-spring-ai-course-logo.jpg
     is_binary: true
+  - name: common/images/deepseek-answers-about-tayviscon-io.jpg
+    is_binary: true
 yaml_version: 6
