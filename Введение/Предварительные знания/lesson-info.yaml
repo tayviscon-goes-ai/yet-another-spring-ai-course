@@ -1,1 +1,7 @@
-{ }
+content:
+  - Java
+  - Spring Boot
+  - PostgreSQL
+  - Docker
+  - Spring AI
+  - Ollama
