@@ -21,4 +21,8 @@ additional_files:
     is_binary: true
   - name: common/images/deepseek-answers-about-tayviscon-io.jpg
     is_binary: true
+  - name: common/images/format-learning-course-ui-ide.jpg
+    is_binary: true
+  - name: common/images/format-learning-browser-vs-ide.jpg
+    is_binary: true
 yaml_version: 6
